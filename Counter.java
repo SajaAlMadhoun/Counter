@@ -1,4 +1,5 @@
-
+//https://www.youtube.com/watch?v=H8kXBL2Qu3A&feature=youtu.be
+//فيديو لشرح كيفية كتابة هذا الكود
 public class Counter {
     private int value=0;
     public void click(){
