@@ -1,4 +1,4 @@
-//https://www.youtube.com/watch?v=H8kXBL2Qu3A&feature=youtu.be
+//https://www.youtube.com/watch?v=SabFlYBWL_c
 //فيديو لشرح كيفية كتابة هذا الكود
 public class Counter {
     private int value=0;
